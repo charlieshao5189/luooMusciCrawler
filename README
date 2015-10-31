@@ -1,0 +1,9 @@
+Environment:
+Ubuntu 15.10
+Python 3.5
+PyCharm Community Edition 4.5.4
+
+LooMusicCrawler:
+a crawler used for donwload music from http://www.luoo.net/
+
+
