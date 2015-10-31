@@ -1,9 +1,21 @@
+LooMusicCrawler:a crawler used for donwload music from http://www.luoo.net/
+
 Environment:
 Ubuntu 15.10
 Python 3.5
 PyCharm Community Edition 4.5.4
 
-LooMusicCrawler:
-a crawler used for donwload music from http://www.luoo.net/
+Functions:
+1.three ways to down music:downloading the latest one, downloading certain number of periodicals or downloading all of the albums.
+2.have a UI builded by tkinter
+
+Problems:
+1.once the download process begin, it can't be stoped
+2.some useless codes can be deleted to accelerate the speed
+3.some warning can be add to the information box at the bottom of UI 
+4.don't test in windows environment
+5.only support chinese, language options can't be changed
+6."download all" is not tested, it will cost too much time
+7.download speed depending on internet speed, sometimes users should be patient.
 
 
